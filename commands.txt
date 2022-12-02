@@ -1,0 +1,11 @@
+cd      cd                      Change directory
+        ** Windows uses \ not / and can append .. at end of cd like cd..
+cp      copy                    Copy files to another location
+ls      dir                     List files & folders in directory
+rm      del                     Delete files
+vi      edit                    Start file editor 
+mkdir   md                      Create a folder
+mv      move                    Move files or folders
+rmdir   rmdir                   Delete folder
+mv      ren                     Rename a file
+touch   copy nul >> fileName    create an empty file 
